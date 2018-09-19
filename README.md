@@ -5,3 +5,4 @@ Simple projects for NodeJs workshop held in Shiraz University _ (2018-09-01)
 ```
 npm install
 ```
+Angular app main repo: https://github.com/Saied-Za/TodoAngular
